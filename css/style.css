@@ -16,7 +16,7 @@
 header {
   /* add header image below */
   /* can use a file path before the photo is uploaded to ceo */
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.0)), url('');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.0)), url('https://s3.amazonaws.com/snwceomedia/ids/88e1e71e-bd4a-483d-ac53-c5e633dc00f2.original.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   /* adjusts image placement, can also be set as percentages (ex. 50% 50%) */
@@ -55,11 +55,11 @@ h2 {
 }
 
 .grid-image-2 {
-  grid-area: 2/1/2/6;
+  grid-area: 2/1/2/7;
 }
 
 .grid-image-3 {
-  grid-area: 2/8/2/13;
+  grid-area: 2/7/2/13;
   align-self: end;
 }
 
@@ -72,17 +72,17 @@ h2 {
 }
 
 .grid-image-6 {
-  grid-area: 4/1/4/5;
+  grid-area: 4/1/4/7;
 }
 
 .grid-image-11 {
-  grid-area: 4/5/4/9;
+  grid-area: 4/7/4/13;
 }
 
-.grid-image-7 {
-  grid-area: 4/9/4/13;
-  align-self: end;
-}
+/* .grid-image-7 { */
+/*   grid-area: 4/9/4/13; */
+/*   align-self: end; */
+/* } */
 
 .grid-image-8 {
   grid-area: 5/3/5/11;
