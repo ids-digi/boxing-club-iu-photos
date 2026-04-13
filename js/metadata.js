@@ -1,32 +1,21 @@
 const data = {
-    "url": "your-url-here",
-    "slug": "Pridefest Returns",
-    "title": "Pridefest Photos",
-    "pub_date": "July 31, 2022",
+    "url": "boxing-club-iu-photos",
+    "slug": "Boxing Club",
+    "title": "Boxing Club",
+    "pub_date": "April 13, 2026",
     "bylines": {
-        "Photos by": [
-            {
-                "name": "Ethan Moore",
-                "email": "ethmoore@iu.edu",
-                "twitter": "catcharron",
-                "pfp": "https://pbs.twimg.com/profile_images/1553236976928710656/_Y1q2klo_400x400.jpg",
-                "bio": "Ethan has worked at the IDS since 2019 as a reporter and designer."
-            },
-            {
-                "name": "Ashlyn Johnson",
-                "email": "catchar@iu.edu",
-                "twitter": "catcharron",
-                "pfp": "https://pbs.twimg.com/profile_images/1499562155896619014/CUD2EvuV_400x400.jpg",
-                "bio": "Ashlyn has worked at the IDS since 2019 as a reporter and designer."
-            },
-            {
-                "name": "Alex Paul",
-                "email": "catchar@iu.edu",
-                "twitter": "catcharron",
-                "pfp": "https://pbs.twimg.com/profile_images/1499562155896619014/CUD2EvuV_400x400.jpg",
-                "bio": "Alex has worked at the IDS since 2019 as a reporter and designer."
-            }
-        ]
+        "Photos by": {
+            "name": "Alex Coifman",
+            "email": "acoifman@iu.edu",
+            "pfp": "alex",
+            "bio": "Alex bio."
+        },
+		"Design and development by": {
+			"name": "Matei Cloteaux",
+			"email": "mcloteau@iu.edu",
+			"pfp": "https://s3.amazonaws.com/snwceomedia/ids/582468e2-d203-46f6-bbf2-3a83a4f981ec.original.jpg",
+			"bio": "Matei has worked at the IDS since 2023 for the digital desk."
+		}
     }
 }
 
