@@ -7,8 +7,8 @@ const data = {
         "Photos by": {
             "name": "Alex Coifman",
             "email": "acoifman@iu.edu",
-            "pfp": "alex",
-            "bio": "Alex bio."
+            "pfp": "https://s3.amazonaws.com/snwceomedia/ids/e7e568ec-c004-405c-88f4-761489479565.original.jpg",
+            "bio": "Alex Coifman is a freshman and serves as a photographer for the visuals desk at the IDS."
         },
 		"Design and development by": {
 			"name": "Matei Cloteaux",
