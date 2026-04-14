@@ -2,7 +2,7 @@ const data = {
     "url": "boxing-club-iu-photos",
     "slug": "Boxing Club",
     "title": "Boxing Club",
-    "pub_date": "April 13, 2026",
+    "pub_date": "April 14, 2026",
     "bylines": {
         "Photos by": {
             "name": "Alex Coifman",
